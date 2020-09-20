@@ -19,7 +19,7 @@ class MyEventHandler extends EventHandler
     /**
      * @var int|string Username or ID of bot admin
      */
-    const ADMIN = "tprotobot"; // Change this
+    const ADMIN = "simocosimo"; 
     /**
      * Get peer(s) where to report errors
      *
